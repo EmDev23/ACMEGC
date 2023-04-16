@@ -1,0 +1,39 @@
+/* Selector  {
+
+ Property: value;
+ }*/
+ 
+ body,
+   html 
+
+   {background: url(https://th.bing.com/th/id/R.eea9a3c9fe78179a3eba7d57a8874f07?rik=O8Toa0PELMKipA&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f6%2f3%2fjHGcvW.jpg&ehk=BClEldMCmtoLe08U5HADtFUSd6MkWqoLHJLAmOs3ZLY%3d&risl=&pid=ImgRaw&r=0);
+	Color:White;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+nav .navbar-nav li a{
+  color: white !important;
+  word-spacing: 1em;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: fantasy;
+  font-size: 25px;
+  style-width:100%; alt="Null">
+  padding-top: 20px;
+
+}
+
+h1{
+  font-family: fantasy;
+  font-size: 40px;
+}
+h4, h2, h3, h5 {
+  font-family: monospace, lucida console;
+}
+button {
+  align-items: center;
+  align-content: center;
+}
